@@ -23,11 +23,9 @@ https://healthpredict-obym7mxs5sfey4syvxsu2z.streamlit.app/
 
 ### Few Login IDs of Patients:
 
-####### 00185faa-2760-4218-9bf5-db301acf8274
+##### 00185faa-2760-4218-9bf5-db301acf8274
 
-####### 0042862c-9889-4a2e-b782-fac1e540ecb4
-
-####### 0047123f-12e7-486c-82df-53b3a450e365
+##### 0047123f-12e7-486c-82df-53b3a450e365
 
 ##  Tools Used
 Python | Pandas | XGBoost | SHAP | Scikit-learn | 
