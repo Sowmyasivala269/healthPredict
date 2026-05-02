@@ -82,11 +82,12 @@ def show_dashboard(patient_id):
         st.markdown("""
             <style>
             .card {
-                background-color: #f2f2f2;
+                background-color: #1e2a3a;
                 padding: 1.2rem;
                 border-radius: 10px;
-                box-shadow: 1px 1px 6px #ddd;
+                box-shadow: 1px 1px 8px rgba(0,0,0,0.4);
                 height: 100%;
+                color: #ffffff;
             }
             .grid3 {
                 display: grid;
